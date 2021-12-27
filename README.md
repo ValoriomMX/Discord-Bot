@@ -31,9 +31,9 @@ If you need any additional help, make sure to add me on Discord [Valoriom#5820]
 
 ### Features
 
-* **IP**: Power auto-moderation to keep your discord server clean
-* **TS**: Moderate and log every action you take
-* **Store**: Have fun with various image `filters` and `generators`
-* **Announces**: Engage user interaction with the economy and Levelling system
-* **Server Status**: Best invite tracking with configurable invite ranks
-* **Whitelist**: Support for creating multiple `ticket` channels
+* **IP**
+* **TS**
+* **Store**
+* **Announces**
+* **Server Status**
+* **Whitelist**
