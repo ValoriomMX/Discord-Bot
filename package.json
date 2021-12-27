@@ -1,0 +1,18 @@
+{
+    "name": "bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "axios": "^0.24.0",
+        "discord.js": "^12.5.0",
+        "electron": "^16.0.5",
+        "megadb": "^3.4.0"
+    },
+    "scripts": {
+        "start": "node ."
+    },
+    "keywords": [],
+    "author": "Valoriom#5820",
+    "license": "ISC"
+}
