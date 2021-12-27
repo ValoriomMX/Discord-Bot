@@ -37,4 +37,3 @@ If you need any additional help, make sure to add me on Discord [Valoriom#5820]
 * **Announces**: Engage user interaction with the economy and Levelling system
 * **Server Status**: Best invite tracking with configurable invite ranks
 * **Whitelist**: Support for creating multiple `ticket` channels
-* 
