@@ -5,7 +5,7 @@ If you wont to use this Bot dont remove the credits.
 
 ### Pre-requisites
 
-* [Node.js](https://nodejs.org/en/) v16.6.0 or higher
+* [Node.js](https://nodejs.org/en/) v12.2.0 or higher
 * [Git](https://git-scm.com/downloads)
 
 ### Getting Started
